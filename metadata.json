@@ -1,0 +1,6 @@
+{
+  "name": "Dice Betting Simulator",
+  "description": "Simulation of a dice gambling game with configurable odds and extensive statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
